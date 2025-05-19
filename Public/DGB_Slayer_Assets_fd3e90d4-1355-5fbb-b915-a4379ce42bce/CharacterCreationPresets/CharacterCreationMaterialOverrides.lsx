@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="CharacterCreationMaterialOverrides">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_EL_A_Top_Vexa_MDC"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="843a1d1e-fc38-2d37-19ae-40880e13d4e9"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="44f5747d-e6a8-c389-c655-b3776ab96edc"/>
+                    <attribute id="UUID" type="guid" value="5084c535-8744-4c51-8b37-0fae1552aff9"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_EL_A_Top_Vexa_MDB"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="8d1bc2a0-4372-6c35-688f-4b0ea8f41b8d"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="a52b3891-0212-bbf9-2f84-6b271ba11c9c"/>
+                    <attribute id="UUID" type="guid" value="7e44007e-44b9-4111-bf58-6da4c7731a70"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_EL_A_Horn_Vexa_DGBC"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="466cd4c1-553d-1009-f16b-0a176ba6a61c"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="48357354-6ed7-a9df-4221-f9172922f751"/>
+                    <attribute id="UUID" type="guid" value="d2e41671-a1dd-4bfd-b15d-a24c1fe60184"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_EL_A_Horn_Vexa_DGBB"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="885d300f-a3c8-693d-2053-26936703f412"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="2fb94acd-4c13-df58-e256-4400e98a8a3e"/>
+                    <attribute id="UUID" type="guid" value="21538787-30b2-405a-bf26-369dd94ddf98"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

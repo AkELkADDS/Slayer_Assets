@@ -1,0 +1,1080 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+   Mon 05/19/2025  6:57:38.93 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_ADGB_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_ADGB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_ADGB_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_ADGB_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_ADGB_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_AH_BM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_AH_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_AH_PM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_DB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_DB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_DB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_DB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HB_BM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HB_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HB_PM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HC_BM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HC_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HC_PM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Jaw\DGB_EL_A_Jaw_Vexa_MD_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Jaw\DGB_EL_A_Jaw_Vexa_MD_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Jaw\DGB_EL_A_Jaw_Vexa_MD_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Jaw\DGB_EL_A_Jaw_Vexa_MD_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Jaw\DGB_EL_A_Jaw_Vexa_MD_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\Icons\CCIcons_DGBSlayerAssets_Atlas.dds 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\00196e92-127a-4425-8b7d-c73270d39277.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\027b2714-7ef6-170d-b5c2-6a97db266698.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\033f7b21-dff7-4376-aca9-c1123ed49b63.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\03ed425c-cb10-9d29-f17e-86b40121c644.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\05261b35-76db-3368-dcb5-f1036cf94136.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\058b99df-8fa1-41dc-a4df-22f6c8ce8d23.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\063da35e-bf22-443b-bd33-95be43c0d26e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\073b6cc0-aa80-e528-0157-50692b3fb2bc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\07503f20-de2c-cc1a-bb84-9ca479c6de62.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\08425a75-86ce-7a10-c54b-9279d4cb0a57.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\0e13cd54-7b0e-4431-a3ea-711fad329f2c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\0f531fa8-da2c-f972-677d-59edff5d82b1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\10fcec1c-3a63-45bb-89f6-337a3244e919.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\12529c57-527a-6dcf-3a06-ef26e331985c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\12d42e0a-5d4b-628e-4277-1854ecce4d64.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\14631923-9049-0179-9eb4-f6ab75786a7e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\158179e9-92db-4ba3-8b60-0006d22773db.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\1aa02271-b604-2e52-0b44-76312b2f689e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\1dbc92a0-d999-f7b0-6527-30408c4b1f49.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\20cebca5-01a7-47c4-a6cb-12688ce42eb8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\219ce83f-ab92-4fb0-868a-709453d3a1ec.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\21efd9d8-d38c-cb15-ddeb-b38cff2e204b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2205074b-1a49-4914-a0c4-c3ad44fae425.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2512b7e5-3e40-404d-9add-26e8901331f8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\262dbda2-8500-91bc-ccf9-b6820d267345.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\27cb3554-dc6d-f7b9-1485-897a27311447.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\286f1569-9d5d-4d00-a79a-8c572948f409.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2a3698dc-44ae-9d5b-05cb-8b80137ccfdb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2ada8967-05a7-3668-7953-96f464c631da.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2b319c31-a74e-9044-b8d5-406ce1effc3d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2cdc5035-0005-c326-660f-625aea4aecbf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2e699162-d8cc-d57f-be56-4145b18ccb35.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2f399cb4-7d08-ed26-2713-8ba42ff968de.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2fb94acd-4c13-df58-e256-4400e98a8a3e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3020d94a-7578-e502-f3dd-87e6efefe5ea.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\33c36fcf-cb53-4d15-fce5-6ebe3cf80e5b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\33e0d7a2-6a68-4ab7-b1d3-8f91c99081b9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\35b7b6d9-c04a-6406-f167-0b43dea00df6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\378678fb-5ef2-177b-f98e-57d9e8dbd78f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\37ecfd10-b9b1-abe6-ee84-51a2c2bc7af1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3864700e-55dc-7072-e249-cb1591dc0fab.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\38f0761c-dd6f-4c8a-8762-ff67378d8649.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3a727279-9ce1-8ea1-5fed-12e8acf5e1c1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3a8d97e4-b8af-6e69-20d8-eb75dd8bc274.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3c210226-b375-8d18-2b6b-7b167288faba.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3e7fc35e-cd05-45ae-840e-43db4de69d58.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3f399b8d-7b64-bd52-09ba-065e0a1a783a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\44f5747d-e6a8-c389-c655-b3776ab96edc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\466cd4c1-553d-1009-f16b-0a176ba6a61c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\47a79cd4-f0b3-61cd-a441-77c9b1064bbf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\48357354-6ed7-a9df-4221-f9172922f751.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\4b75d40a-2224-4f3b-8cb8-67ba76904504.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\51d5bce0-0c5a-4805-a544-aa4b03c1cd86.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\545865c2-2973-4817-b74b-282b6eb82dd3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\551bc8cb-cd47-531c-dd14-bec90595ec8e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\577240c8-ec72-fff5-187c-5a377c442334.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\58e6e0cb-cc6b-c7bd-78a4-ffc2b6a876e9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\591b0aeb-4572-e50b-b11c-5cec6b088189.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\5aee96a2-e6c1-ce31-a2c1-517a405f52ec.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\5c1ec719-1cee-1549-947a-ace4de825408.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\5ce4c416-9672-0520-ab94-e9998de74543.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\62661f03-fff3-24df-c4ca-826a1ed6dee4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\62e293dc-82ac-9bc7-4760-da07c59d0908.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\63164687-bdca-4777-afbf-761d3c9c32b1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\639ac122-22a6-7c24-efac-4fdcf65ce356.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\63a7e61d-0559-8401-7fb1-dcf0021fb045.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\656ae744-9f22-7c14-8485-25c2bf3d6dc4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\65e77239-793b-4095-9159-2780384647d1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\672b0d2e-fb95-06cd-fee2-b943e7a6ad7a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\6c88fdc7-396a-a2f2-2ae5-9059299e5ef3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\71ffaeee-0443-d684-eb81-012396d3428a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\774f3f73-d469-4354-8c1d-b514e4517fbb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\78523a6f-9e64-5c70-8057-77f7ca3680e4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\787069c0-dcdb-bf64-ab54-3c2aa8ec7acf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\78d20ad7-ccf0-0e3f-f9b4-7226e61e88ec.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7a406689-c553-4033-aaa7-61a8e5664513.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7b267fc6-c81b-8d4f-9cb6-3fd7b16a3022.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7d38434c-2041-4ea7-b702-e9ad12e4a08a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7de9707d-b03b-12a9-05d5-f4f784e04484.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7f5b3bf0-cdef-4762-2fb1-f80d19724e59.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7fcfe38f-55dd-70a9-6e13-c1c7c3908707.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\81085df9-a77a-4da9-a739-bc9e356326dd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\82268f8a-2041-48ce-b101-31dae8cbfcf1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\822803a7-5a91-42f1-97b5-aa084a9ef491.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\82414bf4-99bb-4cad-9c24-3da2779332d3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\829848ae-66fa-660c-ce62-b45b793bde07.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\838a4185-1873-1373-6e0b-0c6f338d464a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8426c563-feee-21de-a589-c59596e73b44.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\843a1d1e-fc38-2d37-19ae-40880e13d4e9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\84fc20e3-591b-3a90-3c5d-629b2c3ed4c6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\877165f0-93d2-1299-a5e1-1203eda53820.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\88287f16-c8e4-8258-e0e5-6c293fc732b4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\885d300f-a3c8-693d-2053-26936703f412.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\890f6d0c-432d-4d67-9236-da66e3a218e5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8a525bac-6852-a6ef-38bc-559ef5e0db55.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8a94a5c6-5d50-de8d-efc1-faf9ae36e7e2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8b11088b-024b-7bb1-76e8-5303ec306a8b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8bf94124-925a-2157-ee8d-12c74b348641.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8d1bc2a0-4372-6c35-688f-4b0ea8f41b8d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8ed2052b-3155-4f7c-a311-799f9886a4ac.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\90c46d1e-bf80-eac9-0cb8-c51b648d1ee7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\91c0f521-337a-45ea-9fa5-a9a1950f7e37.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\9324784c-3d1d-2219-0a3e-fc8f1f7997cc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\96c49bc6-01fe-eaad-16a6-2c9a812f5949.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\9d1aa810-d8d9-2b28-1fe7-e175534dd196.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\9dcb3205-7360-589f-fe8f-eade36dec2cb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a0517505-61ed-b1ff-444b-eb7bd24e1112.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a47a13a0-e5a1-e1e0-44f3-bdb88847f3de.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a4bc3602-52fe-4463-8a73-8d63689a39e5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a52b3891-0212-bbf9-2f84-6b271ba11c9c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a5f180e7-792f-4a9b-9ba0-1b8609355ccc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a6c144bf-b36a-89e3-ac52-14472acab245.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a7ebc745-ed31-0f3f-aa7f-8943f47d5748.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\aafa07a1-e60e-7d33-cfe3-04905bc9ee37.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ad996634-c5a1-132e-9396-930f6842e305.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\adbc285b-33d0-507d-0a23-c87837d4e1a4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\af558c95-b2e3-41d1-9d6b-d80faf2e66d7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\afa64a76-4bb2-4873-9331-bdb2aeac8b7c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b03c824a-f5bd-4c76-b0d7-5273914949e4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b066c4b9-cc1e-56fa-491e-b10fce454291.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b1dfa7c7-09c4-1b4e-a320-218fd76cbe1e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b321d2c0-a33f-4785-9570-d89b44877d06.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b4b36533-19de-ee4c-3221-4c8121c932e8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b6a31292-eee2-5af1-8cb8-5bd3e4596035.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b6c80ad6-b5ee-fbec-e43c-2ce58d4f060a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ba30a689-27b1-1929-555a-5a17dd7b0132.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\bbc2ca15-e720-4b34-a507-00388eccda67.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\be83b226-f159-5bfc-621c-61238cb7ca4f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c0f6b02f-783d-b62a-077a-82c7d8a22ee7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c278586b-547c-5dfa-cb32-c8bb4efce818.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c3750a3b-579a-4377-9a25-7d5394730975.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c3e12a2b-39e8-6e81-34c3-915411b57a69.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c3ee4a9c-1834-14ab-f128-534e599abe8d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c5a6d94a-df48-356f-53a5-f06f194b35b7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c732ab67-30cd-4794-96af-12a4c8df6204.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c78559d9-acce-88fd-f27f-a85daddf742e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c8291361-01cc-c335-93d9-d412ec769505.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ca1ef593-ffca-4ec3-8f52-3c7e1ccec6c5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\cd052f97-8435-0ae5-dfd8-88dc96057f98.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ceec0de3-81a2-4c82-a079-863b294a0dd3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\d017d350-cd0e-8954-6995-678e668d930d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\d0739ba8-19b9-9aad-72d4-f5d584e3b519.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\d2163aab-63c0-d023-b637-d4c4a56d1e18.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\d2819bb3-a64b-c0ee-e570-b8b552f93155.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\d55ac4a8-7f26-4118-8f46-0a3374259ca1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\db067d32-ce64-63fe-59b4-226975882563.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\df1a6d8b-f4b8-46e3-b510-8e92b02af708.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\df51437a-d7f9-4695-1cbc-82b06c9fc028.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\e26ea9b0-4838-0d81-62f7-fcd83d98dc01.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\e81cb3cf-68f6-0085-ee67-963ccff7b370.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\e9c60dbc-dd59-4d41-a7cf-5e9733e057d1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\eaa117e1-d6f5-8cc9-e2ea-aac22225e679.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\eaa18c4b-a770-4868-9579-842cc02f6afd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\eb3446dd-1f78-eb40-b408-eb1f1612596e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ebde2e29-d1e3-53dc-0941-3635a8221055.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f119d79c-ff92-4a3d-8cc5-01c4f19b0ae3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f44c911b-6146-48ae-ae6a-b124022ea3c2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f5f05021-f925-f0a9-3966-053bbf69ea9d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f7b7c36f-0068-4e2c-974d-917d8753a624.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f7d43072-9f29-4f93-94ca-0da8d3f34480.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f893ed43-2898-1ccf-09d4-5d98813fd78a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f93feb17-0ee6-48b8-9a5e-0e3ec4fb49aa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\fa017522-8f80-e37e-4885-d68fd609819d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\fa3c2aaf-817a-49e3-a123-6a106b0e87c6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\fb953ac0-7eaf-2080-d58b-5340d5fa9af2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\fe1f5ce9-856d-5d6b-0990-e7ce769eb345.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\fea6a3ea-29b2-e5c2-9f30-4bcc42b54cbf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ffa6c8da-1fa3-a4c9-3987-8ab35f6c240d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\GUI\CCIcons_DGBSlayerAssets_Atlas.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaC.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce: 324 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaC.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce: 50 
+ 
+[LOG] Total files found across all folders: 382 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce to Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[DEBUG] Using destination: Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:57:43 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     695	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\meta.lsx100%  
+	    New File  		   5.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\thumbnail.png  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    5.67 m    5.67 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           5952974000 Bytes/sec.
+   Speed :           340631.904 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:57:43 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Editor\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce to "Editor\Mods"\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[DEBUG] Using destination: Editor\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:57:44 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Editor\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  143094	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		    4387	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   144.0 k   144.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           147481000 Bytes/sec.
+   Speed :            8438.930 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:57:44 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce to Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[DEBUG] Using destination: Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:57:46 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    5638	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\meta.lsx100%  
+	    New File  		   5.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\mod_publish_logo.png100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\GUI\metadata.lsf100%  
+	    New File  		   15277	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    5.69 m    5.69 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           1991445000 Bytes/sec.
+   Speed :           113951.396 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:57:46 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce to Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[DEBUG] Using destination: Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:57:48 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   98901	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    3663	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
+	    New File  		    7533	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\GUI\CCIcons_DGBSlayerAssets_Atlas.lsx100%  
+	    New File  		    2804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\00196e92-127a-4425-8b7d-c73270d39277.lsf100%  
+	    New File  		    1654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\027b2714-7ef6-170d-b5c2-6a97db266698.lsf100%  
+	    New File  		    2805	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\033f7b21-dff7-4376-aca9-c1123ed49b63.lsf100%  
+	    New File  		    2803	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\03ed425c-cb10-9d29-f17e-86b40121c644.lsf100%  
+	    New File  		    1642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\05261b35-76db-3368-dcb5-f1036cf94136.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\058b99df-8fa1-41dc-a4df-22f6c8ce8d23.lsf100%  
+	    New File  		    2844	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\063da35e-bf22-443b-bd33-95be43c0d26e.lsf100%  
+	    New File  		    1645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\073b6cc0-aa80-e528-0157-50692b3fb2bc.lsf100%  
+	    New File  		    1654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\07503f20-de2c-cc1a-bb84-9ca479c6de62.lsf100%  
+	    New File  		    1654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\08425a75-86ce-7a10-c54b-9279d4cb0a57.lsf100%  
+	    New File  		    2743	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\0e13cd54-7b0e-4431-a3ea-711fad329f2c.lsf100%  
+	    New File  		    2806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\0f531fa8-da2c-f972-677d-59edff5d82b1.lsf100%  
+	    New File  		    2818	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\10fcec1c-3a63-45bb-89f6-337a3244e919.lsf100%  
+	    New File  		    1647	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\12529c57-527a-6dcf-3a06-ef26e331985c.lsf100%  
+	    New File  		    2806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\12d42e0a-5d4b-628e-4277-1854ecce4d64.lsf100%  
+	    New File  		    2758	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\14631923-9049-0179-9eb4-f6ab75786a7e.lsf100%  
+	    New File  		    2804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\158179e9-92db-4ba3-8b60-0006d22773db.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\1aa02271-b604-2e52-0b44-76312b2f689e.lsf100%  
+	    New File  		   13546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\1dbc92a0-d999-f7b0-6527-30408c4b1f49.lsf100%  
+	    New File  		    2743	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\20cebca5-01a7-47c4-a6cb-12688ce42eb8.lsf100%  
+	    New File  		    2777	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\219ce83f-ab92-4fb0-868a-709453d3a1ec.lsf100%  
+	    New File  		    1645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\21efd9d8-d38c-cb15-ddeb-b38cff2e204b.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2205074b-1a49-4914-a0c4-c3ad44fae425.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2512b7e5-3e40-404d-9add-26e8901331f8.lsf100%  
+	    New File  		    1651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\262dbda2-8500-91bc-ccf9-b6820d267345.lsf100%  
+	    New File  		    2819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\27cb3554-dc6d-f7b9-1485-897a27311447.lsf100%  
+	    New File  		    2805	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\286f1569-9d5d-4d00-a79a-8c572948f409.lsf100%  
+	    New File  		    2819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2a3698dc-44ae-9d5b-05cb-8b80137ccfdb.lsf100%  
+	    New File  		    2803	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2ada8967-05a7-3668-7953-96f464c631da.lsf100%  
+	    New File  		    1651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2b319c31-a74e-9044-b8d5-406ce1effc3d.lsf100%  
+	    New File  		    1651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2cdc5035-0005-c326-660f-625aea4aecbf.lsf100%  
+	    New File  		    1651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2e699162-d8cc-d57f-be56-4145b18ccb35.lsf100%  
+	    New File  		    2805	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2f399cb4-7d08-ed26-2713-8ba42ff968de.lsf100%  
+	    New File  		   14002	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\2fb94acd-4c13-df58-e256-4400e98a8a3e.lsf100%  
+	    New File  		    2788	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3020d94a-7578-e502-f3dd-87e6efefe5ea.lsf100%  
+	    New File  		    2756	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\33c36fcf-cb53-4d15-fce5-6ebe3cf80e5b.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\33e0d7a2-6a68-4ab7-b1d3-8f91c99081b9.lsf100%  
+	    New File  		    2806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\35b7b6d9-c04a-6406-f167-0b43dea00df6.lsf100%  
+	    New File  		    2744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\378678fb-5ef2-177b-f98e-57d9e8dbd78f.lsf100%  
+	    New File  		    1660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\37ecfd10-b9b1-abe6-ee84-51a2c2bc7af1.lsf100%  
+	    New File  		    2874	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3864700e-55dc-7072-e249-cb1591dc0fab.lsf100%  
+	    New File  		    2805	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\38f0761c-dd6f-4c8a-8762-ff67378d8649.lsf100%  
+	    New File  		    1657	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3a727279-9ce1-8ea1-5fed-12e8acf5e1c1.lsf100%  
+	    New File  		    1651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3a8d97e4-b8af-6e69-20d8-eb75dd8bc274.lsf100%  
+	    New File  		    1617	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3c210226-b375-8d18-2b6b-7b167288faba.lsf100%  
+	    New File  		    2802	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3e7fc35e-cd05-45ae-840e-43db4de69d58.lsf100%  
+	    New File  		    1669	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\3f399b8d-7b64-bd52-09ba-065e0a1a783a.lsf100%  
+	    New File  		   14000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\44f5747d-e6a8-c389-c655-b3776ab96edc.lsf100%  
+	    New File  		   13999	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\466cd4c1-553d-1009-f16b-0a176ba6a61c.lsf100%  
+	    New File  		    1645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\47a79cd4-f0b3-61cd-a441-77c9b1064bbf.lsf100%  
+	    New File  		   14002	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\48357354-6ed7-a9df-4221-f9172922f751.lsf100%  
+	    New File  		    2818	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\4b75d40a-2224-4f3b-8cb8-67ba76904504.lsf100%  
+	    New File  		    2816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\51d5bce0-0c5a-4805-a544-aa4b03c1cd86.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\545865c2-2973-4817-b74b-282b6eb82dd3.lsf100%  
+	    New File  		    2817	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\551bc8cb-cd47-531c-dd14-bec90595ec8e.lsf100%  
+	    New File  		    2819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\577240c8-ec72-fff5-187c-5a377c442334.lsf100%  
+	    New File  		    2869	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\58e6e0cb-cc6b-c7bd-78a4-ffc2b6a876e9.lsf100%  
+	    New File  		    1651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\591b0aeb-4572-e50b-b11c-5cec6b088189.lsf100%  
+	    New File  		    1669	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\5aee96a2-e6c1-ce31-a2c1-517a405f52ec.lsf100%  
+	    New File  		    2758	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\5c1ec719-1cee-1549-947a-ace4de825408.lsf100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\5ce4c416-9672-0520-ab94-e9998de74543.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\62661f03-fff3-24df-c4ca-826a1ed6dee4.lsf100%  
+	    New File  		    1651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\62e293dc-82ac-9bc7-4760-da07c59d0908.lsf100%  
+	    New File  		    2755	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\63164687-bdca-4777-afbf-761d3c9c32b1.lsf100%  
+	    New File  		    2805	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\639ac122-22a6-7c24-efac-4fdcf65ce356.lsf100%  
+	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\63a7e61d-0559-8401-7fb1-dcf0021fb045.lsf100%  
+	    New File  		    1647	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\656ae744-9f22-7c14-8485-25c2bf3d6dc4.lsf100%  
+	    New File  		    2806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\65e77239-793b-4095-9159-2780384647d1.lsf100%  
+	    New File  		    1647	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\672b0d2e-fb95-06cd-fee2-b943e7a6ad7a.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\6c88fdc7-396a-a2f2-2ae5-9059299e5ef3.lsf100%  
+	    New File  		    1642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\71ffaeee-0443-d684-eb81-012396d3428a.lsf100%  
+	    New File  		    2757	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\774f3f73-d469-4354-8c1d-b514e4517fbb.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\78523a6f-9e64-5c70-8057-77f7ca3680e4.lsf100%  
+	    New File  		    1641	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\787069c0-dcdb-bf64-ab54-3c2aa8ec7acf.lsf100%  
+	    New File  		    1663	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\78d20ad7-ccf0-0e3f-f9b4-7226e61e88ec.lsf100%  
+	    New File  		    2757	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7a406689-c553-4033-aaa7-61a8e5664513.lsf100%  
+	    New File  		    2806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7b267fc6-c81b-8d4f-9cb6-3fd7b16a3022.lsf100%  
+	    New File  		    2818	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7d38434c-2041-4ea7-b702-e9ad12e4a08a.lsf100%  
+	    New File  		    1647	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7de9707d-b03b-12a9-05d5-f4f784e04484.lsf100%  
+	    New File  		   13553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7f5b3bf0-cdef-4762-2fb1-f80d19724e59.lsf100%  
+	    New File  		    1645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\7fcfe38f-55dd-70a9-6e13-c1c7c3908707.lsf100%  
+	    New File  		    2805	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\81085df9-a77a-4da9-a739-bc9e356326dd.lsf100%  
+	    New File  		    2743	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\82268f8a-2041-48ce-b101-31dae8cbfcf1.lsf100%  
+	    New File  		    2818	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\822803a7-5a91-42f1-97b5-aa084a9ef491.lsf100%  
+	    New File  		    2787	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\82414bf4-99bb-4cad-9c24-3da2779332d3.lsf100%  
+	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\829848ae-66fa-660c-ce62-b45b793bde07.lsf100%  
+	    New File  		    1637	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\838a4185-1873-1373-6e0b-0c6f338d464a.lsf100%  
+	    New File  		    2845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8426c563-feee-21de-a589-c59596e73b44.lsf100%  
+	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\843a1d1e-fc38-2d37-19ae-40880e13d4e9.lsf100%  
+	    New File  		    1663	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\84fc20e3-591b-3a90-3c5d-629b2c3ed4c6.lsf100%  
+	    New File  		    2922	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\877165f0-93d2-1299-a5e1-1203eda53820.lsf100%  
+	    New File  		    1663	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\88287f16-c8e4-8258-e0e5-6c293fc732b4.lsf100%  
+	    New File  		   13999	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\885d300f-a3c8-693d-2053-26936703f412.lsf100%  
+	    New File  		    2755	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\890f6d0c-432d-4d67-9236-da66e3a218e5.lsf100%  
+	    New File  		   13996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8a525bac-6852-a6ef-38bc-559ef5e0db55.lsf100%  
+	    New File  		    2806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8a94a5c6-5d50-de8d-efc1-faf9ae36e7e2.lsf100%  
+	    New File  		    1647	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8b11088b-024b-7bb1-76e8-5303ec306a8b.lsf100%  
+	    New File  		    1654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8bf94124-925a-2157-ee8d-12c74b348641.lsf100%  
+	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8d1bc2a0-4372-6c35-688f-4b0ea8f41b8d.lsf100%  
+	    New File  		    2757	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\8ed2052b-3155-4f7c-a311-799f9886a4ac.lsf100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\90c46d1e-bf80-eac9-0cb8-c51b648d1ee7.lsf100%  
+	    New File  		    2920	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\91c0f521-337a-45ea-9fa5-a9a1950f7e37.lsf100%  
+	    New File  		    2744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\9324784c-3d1d-2219-0a3e-fc8f1f7997cc.lsf100%  
+	    New File  		    2819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\96c49bc6-01fe-eaad-16a6-2c9a812f5949.lsf100%  
+	    New File  		    2758	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\9d1aa810-d8d9-2b28-1fe7-e175534dd196.lsf100%  
+	    New File  		   13546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\9dcb3205-7360-589f-fe8f-eade36dec2cb.lsf100%  
+	    New File  		    2819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a0517505-61ed-b1ff-444b-eb7bd24e1112.lsf100%  
+	    New File  		    2819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a47a13a0-e5a1-e1e0-44f3-bdb88847f3de.lsf100%  
+	    New File  		    2805	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a4bc3602-52fe-4463-8a73-8d63689a39e5.lsf100%  
+	    New File  		   14000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a52b3891-0212-bbf9-2f84-6b271ba11c9c.lsf100%  
+	    New File  		    2851	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a5f180e7-792f-4a9b-9ba0-1b8609355ccc.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a6c144bf-b36a-89e3-ac52-14472acab245.lsf100%  
+	    New File  		    1651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\a7ebc745-ed31-0f3f-aa7f-8943f47d5748.lsf100%  
+	    New File  		    1669	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\aafa07a1-e60e-7d33-cfe3-04905bc9ee37.lsf100%  
+	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ad996634-c5a1-132e-9396-930f6842e305.lsf100%  
+	    New File  		    1657	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\adbc285b-33d0-507d-0a23-c87837d4e1a4.lsf100%  
+	    New File  		    2805	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\af558c95-b2e3-41d1-9d6b-d80faf2e66d7.lsf100%  
+	    New File  		    2757	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\afa64a76-4bb2-4873-9331-bdb2aeac8b7c.lsf100%  
+	    New File  		    2757	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b03c824a-f5bd-4c76-b0d7-5273914949e4.lsf100%  
+	    New File  		    2819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b066c4b9-cc1e-56fa-491e-b10fce454291.lsf100%  
+	    New File  		    1660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b1dfa7c7-09c4-1b4e-a320-218fd76cbe1e.lsf100%  
+	    New File  		    2844	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b321d2c0-a33f-4785-9570-d89b44877d06.lsf100%  
+	    New File  		    1644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b4b36533-19de-ee4c-3221-4c8121c932e8.lsf100%  
+	    New File  		    1642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b6a31292-eee2-5af1-8cb8-5bd3e4596035.lsf100%  
+	    New File  		    1654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\b6c80ad6-b5ee-fbec-e43c-2ce58d4f060a.lsf100%  
+	    New File  		    2758	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ba30a689-27b1-1929-555a-5a17dd7b0132.lsf100%  
+	    New File  		    2818	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\bbc2ca15-e720-4b34-a507-00388eccda67.lsf100%  
+	    New File  		    2847	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\be83b226-f159-5bfc-621c-61238cb7ca4f.lsf100%  
+	    New File  		    2778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c0f6b02f-783d-b62a-077a-82c7d8a22ee7.lsf100%  
+	    New File  		    1642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c278586b-547c-5dfa-cb32-c8bb4efce818.lsf100%  
+	    New File  		    2820	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c3750a3b-579a-4377-9a25-7d5394730975.lsf100%  
+	    New File  		    2788	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c3e12a2b-39e8-6e81-34c3-915411b57a69.lsf100%  
+	    New File  		    2806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c3ee4a9c-1834-14ab-f128-534e599abe8d.lsf100%  
+	    New File  		    1647	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c5a6d94a-df48-356f-53a5-f06f194b35b7.lsf100%  
+	    New File  		    2818	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c732ab67-30cd-4794-96af-12a4c8df6204.lsf100%  
+	    New File  		    2853	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c78559d9-acce-88fd-f27f-a85daddf742e.lsf100%  
+	    New File  		    2821	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\c8291361-01cc-c335-93d9-d412ec769505.lsf100%  
+	    New File  		    2743	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ca1ef593-ffca-4ec3-8f52-3c7e1ccec6c5.lsf100%  
+	    New File  		    2819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\cd052f97-8435-0ae5-dfd8-88dc96057f98.lsf100%  
+	    New File  		    2818	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ceec0de3-81a2-4c82-a079-863b294a0dd3.lsf100%  
+	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\d017d350-cd0e-8954-6995-678e668d930d.lsf100%  
+	    New File  		    2758	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\d0739ba8-19b9-9aad-72d4-f5d584e3b519.lsf100%  
+	    New File  		    1666	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\d2163aab-63c0-d023-b637-d4c4a56d1e18.lsf100%  
+	    New File  		    2819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\d2819bb3-a64b-c0ee-e570-b8b552f93155.lsf100%  
+	    New File  		    2818	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\d55ac4a8-7f26-4118-8f46-0a3374259ca1.lsf100%  
+	    New File  		    1654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\db067d32-ce64-63fe-59b4-226975882563.lsf100%  
+	    New File  		    2805	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\df1a6d8b-f4b8-46e3-b510-8e92b02af708.lsf100%  
+	    New File  		    2758	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\df51437a-d7f9-4695-1cbc-82b06c9fc028.lsf100%  
+	    New File  		    2821	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\e26ea9b0-4838-0d81-62f7-fcd83d98dc01.lsf100%  
+	    New File  		    1660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\e81cb3cf-68f6-0085-ee67-963ccff7b370.lsf100%  
+	    New File  		    2757	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\e9c60dbc-dd59-4d41-a7cf-5e9733e057d1.lsf100%  
+	    New File  		    1644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\eaa117e1-d6f5-8cc9-e2ea-aac22225e679.lsf100%  
+	    New File  		    2787	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\eaa18c4b-a770-4868-9579-842cc02f6afd.lsf100%  
+	    New File  		    2869	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\eb3446dd-1f78-eb40-b408-eb1f1612596e.lsf100%  
+	    New File  		    2806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ebde2e29-d1e3-53dc-0941-3635a8221055.lsf100%  
+	    New File  		    2787	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f119d79c-ff92-4a3d-8cc5-01c4f19b0ae3.lsf100%  
+	    New File  		    2805	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f44c911b-6146-48ae-ae6a-b124022ea3c2.lsf100%  
+	    New File  		    2756	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f5f05021-f925-f0a9-3966-053bbf69ea9d.lsf100%  
+	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f7b7c36f-0068-4e2c-974d-917d8753a624.lsf100%  
+	    New File  		    2802	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f7d43072-9f29-4f93-94ca-0da8d3f34480.lsf100%  
+	    New File  		    2744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f893ed43-2898-1ccf-09d4-5d98813fd78a.lsf100%  
+	    New File  		    2818	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\f93feb17-0ee6-48b8-9a5e-0e3ec4fb49aa.lsf100%  
+	    New File  		    2744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\fa017522-8f80-e37e-4885-d68fd609819d.lsf100%  
+	    New File  		    2820	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\fa3c2aaf-817a-49e3-a123-6a106b0e87c6.lsf100%  
+	    New File  		    2788	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\fb953ac0-7eaf-2080-d58b-5340d5fa9af2.lsf100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\fe1f5ce9-856d-5d6b-0990-e7ce769eb345.lsf100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\fea6a3ea-29b2-e5c2-9f30-4bcc42b54cbf.lsf100%  
+	    New File  		    2845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Content\[PAK]_DGB_Slayer_Assets\ffa6c8da-1fa3-a4c9-3987-8ab35f6c240d.lsf100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\Icons\CCIcons_DGBSlayerAssets_Atlas.dds100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_ADGB_CTLO.DDS100%  
+	    New File  		  699192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_ADGB_DMSK.DDS100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_ADGB_HMVY.DDS100%  
+	    New File  		  699192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_ADGB_MSK.DDS100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_ADGB_NM.DDS100%  
+	    New File  		  699192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_AH_BM.DDS100%  
+	    New File  		  699192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_AH_MSK.DDS100%  
+	    New File  		  699192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Body_EL_Vexa\Horns\DGB_EL_A_TailHorns_Vexa_AH_PM.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_CTLO.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_DB_DMSK.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_DMSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_HMVY.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_MSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDB_NM.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_CTLO.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_DB_DMSK.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_DMSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_HMVY.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_MSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\CrestTop\DGB_EL_A_Top_Vexa_MDC_NM.DDS 84%  100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_CTLO.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_DB_DMSK.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_DMSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_HMVY.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_MSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBB_NM.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_CTLO.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_DB_DMSK.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_DMSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_HMVY.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_MSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_DGBC_NM.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HB_BM.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HB_MSK.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HB_PM.DDS 56%  100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HC_BM.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HC_MSK.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Horns\DGB_EL_A_Horn_Vexa_HC_PM.DDS100%  
+	    New File  		  699216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Jaw\DGB_EL_A_Jaw_Vexa_MD_CTLO.DDS100%  
+	    New File  		  349672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Jaw\DGB_EL_A_Jaw_Vexa_MD_DMSK.DDS100%  
+	    New File  		  699216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Jaw\DGB_EL_A_Jaw_Vexa_MD_HMVY.DDS100%  
+	    New File  		  349672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Jaw\DGB_EL_A_Jaw_Vexa_MD_MSK.DDS100%  
+	    New File  		  699216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Vexa\Jaw\DGB_EL_A_Jaw_Vexa_MD_NM.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A_CTLO.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A_DMSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A_HMVY.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A_MSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A_NM.DDS 84%  100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A_CTLO.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A_DMSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A_HMVY.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Assets\Textures\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A_MSK.DDS100%  
+	    New File  		  169836	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A.xml100%  
+	    New File  		  904948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  904948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  832084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaC.xml100%  
+	    New File  		  904944	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  904944	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  832084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaC.xml100%  
+	    New File  		  910604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  910604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  837744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaC.xml100%  
+	    New File  		  910604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  910604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_R.GR2 86%  100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  837744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaC.xml100%  
+	    New File  		  169644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A.xml100%  
+	    New File  		  241316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  241316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  238144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaC.xml100%  
+	    New File  		  241316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  241316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  238144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaC.xml100%  
+	    New File  		  246976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  246976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  243796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaC.xml100%  
+	    New File  		  246976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  246976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  243804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaC.xml100%  
+	    New File  		  860604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  860604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  832072	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaC.xml100%  
+	    New File  		  866260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  866260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  837728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaC.xml100%  
+	    New File  		  866260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  866260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  837704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaC.xml100%  
+	    New File  		  866236	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  866236	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  837704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaC.xml100%  
+	    New File  		  257800	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  257800	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  238100	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaC.xml100%  
+	    New File  		  263432	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  263432	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  243760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaC.xml100%  
+	    New File  		  263460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  263460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  243760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaC.xml100%  
+	    New File  		  263460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  263460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  243760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaC.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        39        39         1         0         0         0
+   Files :       324       324         0         0         0         0
+   Bytes :  186.23 m  186.23 m         0         0         0         0
+   Times :   0:00:04   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           257628047 Bytes/sec.
+   Speed :           14741.595 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:57:49 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 324 
+[DEBUG] Successfully copied files: 324 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce: 
+      Total files: 324 
+      Copied successfully: 324 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce to "Generated\Public"\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[DEBUG] Using destination: Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:57:50 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  169836	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Vexa\Tail\DGB_EL_FZ_Tail_Vexa_A.GR2100%  
+	    New File  		  860632	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  860632	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  832084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FB_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		  860628	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  860628	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  832084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FC_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		  866288	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  866288	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  837744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FD_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		  866288	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  866288	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  837744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FE_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		  241316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  241316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  238144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FB_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		  241316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  241316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  238144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FC_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		  246976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  246976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  243796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FD_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		  246976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  246976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  243804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FE_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		  169440	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Vexa\Tail\DGB_EL_MZ_Tail_Vexa_A.GR2100%  
+	    New File  		  860604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  860604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  832072	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MD_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		  866260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  866260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  837728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_ME_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		  866260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  866260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  837704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MF_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		  866236	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  866260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  837704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\CrestTop\DGB_EL_MG_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		  257800	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  257800	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  238100	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MD_Jaw_Vexa_MD_VexaC.GR2  0%  100%  
+	    New File  		  263432	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  263460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  243760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_ME_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		  263460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  263460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  243760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MF_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		  263460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  263460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  243760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MG_Jaw_Vexa_MD_VexaC.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        17        17         1         0         0         0
+   Files :        50        50         0         0         0         0
+   Bytes :   25.59 m   25.59 m         0         0         0         0
+   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           158777065 Bytes/sec.
+   Speed :            9085.296 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:57:51 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 50 
+[DEBUG] Successfully copied files: 50 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce: 
+      Total files: 50 
+      Copied successfully: 50 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 324 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 50 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 382 
+[SUMMARY] Total files successfully copied: 764 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
